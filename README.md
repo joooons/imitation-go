@@ -2,6 +2,8 @@
 
 Try playing [Imitation Go](https://imitation-go.onrender.com/)!
 
+:warning: It may take a few minutes for the game to load for the first time.
+
 This is an experimental version of Go that allows more than two players to play. It was made with `node.js` and `socket.io`. It is currently hosted on `Render`. Load the page on two or more separate browser windows to try out the multiplayer game.
 
 ## Features
